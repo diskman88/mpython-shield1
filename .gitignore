@@ -1,0 +1,15 @@
+**/private
+# 怱略altium designer产生的临时文件
+1_Hardware/**/*.PrjPCBStructure
+1_Hardware/**/__Previews/
+1_Hardware/**/History/
+1_Hardware/**/Project Logs*/
+
+# 怱略stm8项目产生的临时文件。
+2_Firmware/**/Obj/
+2_Firmware/**/List/
+2_Firmware/**/Exe/
+
+*.tmp
+**/.vscode
+pymakr.conf
