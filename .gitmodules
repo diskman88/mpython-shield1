@@ -1,1 +1,4 @@
 
+[submodule "2_Firmware/mpython-shield-1-fw-stm8s103f3"]
+	path = 2_Firmware/mpython-shield-1-fw-stm8s103f3
+	url = http://192.168.13.127/labplus/mpython-shield-1/submodules/mpython-shield-1-fw-stm8s103f3.git
