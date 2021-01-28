@@ -1,6 +1,10 @@
+# 存放私有文件
 **/private
+
+# 怱略altium designer产生的临时文件
 # 怱略altium designer产生的临时文件
 1_Hardware/**/*.PrjPCBStructure
+1_Hardware/**/*.PcbDoc.htm
 1_Hardware/**/__Previews/
 1_Hardware/**/History/
 1_Hardware/**/Project Logs*/
@@ -11,5 +15,9 @@
 2_Firmware/**/Exe/
 
 *.tmp
+# vscode
 **/.vscode
 pymakr.conf
+
+
+
